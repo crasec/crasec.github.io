@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Shi-Feng Sun is currently an Associate Professor in the School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University, China. Prior to joining SJTU, he was a Lecturer in the Department of Software Systems and Cybersecurity at Monash University, Australia. Before that, he worked as a Research Fellow at Monash University and CSIRO, Australia. His research interest centers on cryptography and data privacy, particularly on provably secure cryptosystems against physical attacks, privacy-preserving technology in cloud and blockchain
+**Shi-Feng Sun** is currently an Associate Professor in the School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University, China. Prior to joining SJTU, he was a Lecturer in the Department of Software Systems and Cybersecurity at Monash University, Australia. Before that, he worked as a Research Fellow at Monash University and CSIRO, Australia. His research interest centers on cryptography and data privacy, particularly on provably secure cryptosystems against physical attacks, privacy-preserving technology in cloud and blockchain
 
 A data-driven personal website
 ======
