@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2016-ESORICS
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2016
+date: 2016-9-15
 venue: 'ESORICS 2016'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-319-45744-4_8'
