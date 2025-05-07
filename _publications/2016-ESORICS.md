@@ -3,7 +3,7 @@ title: "An Efficient Non-interactive Multi-client Searchable Encryption with Sup
 collection: publications
 category: conferences
 permalink: /publication/2016-ESORICS
-excerpt: # 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2016-9-15
 venue: 'ESORICS 2016'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
