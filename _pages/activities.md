@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 &nbsp;
-
 ## Academic Service
 
 * 2022–Present: Secretary & Committee Member, CACR Technical Committee on AI and Big Data Security
@@ -22,7 +21,6 @@ redirect_from:
 * 2023–2026: Technical Management Committee Member, SJTU–Huawei Joint Lab for Cryptography and Digital Trust
 
 &nbsp;
-
 ## Conference Service
 
 * ACM CCS 2025: Program Committee Member
@@ -38,7 +36,6 @@ redirect_from:
 * CCF Blockchain Security & Innovation Competition (1st edition): Organizing Committee Chair
 
 &nbsp;
-
 ## Editorial Service
 
 * Guest Editor, Security and Communication Networks
