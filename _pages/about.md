@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor in the School of Computer Science at Shanghai Jiao Tong University, China. Prior to joining SJTU, I was a Lecturer (aka Assistant Professor) in the Department of Software Systems and Cybersecurity at Monash University, Australia. Before that, I worked as a Research Fellow at Monash University and CSIRO, Australia. 
+I am an Associate Professor in the [School of Cyber Science and Engineering](https://infosec.sjtu.edu.cn/index.aspx) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), China. Prior to joining SJTU, I was a Lecturer (aka Assistant Professor) in the Department of Software Systems and Cybersecurity at Monash University, Australia. Before that, I worked as a Research Fellow at Monash University and CSIRO, Australia. 
 
 My research interest centers on cryptography and data privacy, particularly on provably secure cryptosystems against physical attacks, privacy-preserving technology in cloud and blockchain. My work has appeared in leading conferences and journals, including ACM CCS, NDSS, USENIX Security, EUROCRYPT, ASIACRYPT, PKC, ESORICS, IEEE TDSC, and DCC. I’ve led or participated in multiple national research projects, including key and general programs from the National Natural Science Foundation of China (NSFC).
 
