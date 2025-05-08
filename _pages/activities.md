@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<br>
 
 ## Academic Service
 
@@ -21,7 +20,6 @@ redirect_from:
 * 2021–2026: Committee Member, CCL Technical Committee on Big Data Security and Privacy Computing
 * 2023–2026: Technical Management Committee Member, SJTU–Huawei Joint Lab for Cryptography and Digital Trust
 
-<br>
 
 ## Conference Service
 
@@ -37,7 +35,6 @@ redirect_from:
 * CACR Big Data and Artifical Intelligence Security Youth Forum 2024: Program Committee Chair
 * CCF Blockchain Security & Innovation Competition (1st edition): Organizing Committee Chair
 
-<br>
 
 ## Editorial Service
 
