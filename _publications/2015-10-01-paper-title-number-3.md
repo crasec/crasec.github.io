@@ -1,14 +1,16 @@
 ---
-title: "Paper Title Number 3"
+title: "Practical Non-interactive Encrypted Conjunctive Search with Leakage Suppression"
 collection: publications
 category: conferences
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2024-CCS
+excerpt: ' '
+date: 2024-12-9
+venue: 'ACM CCS 2024'
+#slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
+paperurl: 'https://dl.acm.org/doi/10.1145/3658644.3670355'
+citation: 'Yunling Wang, Shi-Feng Sun, Jianfeng Wang, Xiaofeng Chen, Joseph K. Liu, Dawu Gu: Practical Non-interactive Encrypted Conjunctive Search with Leakage Suppression. CCS 2024: 4658-4672'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Encrypted conjunctive search enables server to perform efficient conjunctive query over encrypted data while guaranteeing data and query privacy. The well-known Oblivious Cross-Tags (OXT) protocol (by Cash et al. in CRYPTO 2013) is the first to realize efficient conjunctive search with some well-defined leakage, such as the keyword pair result pattern (KPRP) leakage and the cross-query intersection result pattern (IP) leakage. To mitigate the potential threats brought by the leakage, much effort has been made to reduce the information leaked by OXT. However, it is still open to achieve encrypted conjunctive search without revealing both KPRP and IP, while preserving high-efficiency.
+Encrypted multi-map is a crucial primitive for designing searchable encryption with optimal search complexity. In this paper, we present the first non-interactive encrypted conjunctive multi-map, Doris, without KPRP and IP leakage. To this end, we design a novel data structure for performing conjunctive query, that enables the client to generate "encrypted" label/value pairs without interaction. Then, we introduce a new cryptographic primitive dubbed Symmetric Subset Predicate Encryption, which supports checking if one set is entirely contained within another without leaking any information than the subset predicate.
+Finally, we implement Doris and provide a detailed comparison with the most related works HXT (by Lai et al. in CCS 2018) and ConjFilter (by Patel et al. in ASIACRYPT 2021). The experimental results demonstrate that Doris can achieve a speedup of 6× and 1.07× compared to HXT and ConjFilter in search latency respectively for 2 labels querying, while increasing to 42× and 1.1× respectively for 10 labels, even with a stronger security guarantee.
