@@ -17,8 +17,4 @@ author_profile: true
 
 <h2>Students</h2>
 
-{% capture students_content %}
-  {% include_relative students.md %}
-{% endcapture %}
-
-{{ students_content | markdownify }}
+{% include students.md %}
