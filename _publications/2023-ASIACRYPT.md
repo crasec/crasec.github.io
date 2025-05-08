@@ -6,7 +6,7 @@ permalink: /publication/2023-ASIACRYPT
 excerpt: ' '
 date: 2023-12-19
 venue: 'ASIACRYPT 2023'
-slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
+#slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-981-99-8724-5_4'
 citation: 'Yuncong Zhang, Shifeng Sun, Ren Zhang, Dawu Gu: Polynomial IOPs for Memory Consistency Checks in Zero-Knowledge Virtual Machines. ASIACRYPT (2) 2023: 111-141'
 ---
