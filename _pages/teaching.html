@@ -7,6 +7,18 @@ author_profile: true
 
 {% include base_path %}
 
+<h2>Teaching</h2>
+
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+<hr>
+
+<h2>Students</h2>
+
+{% capture students_content %}
+  {% include_relative students.md %}
+{% endcapture %}
+
+{{ students_content | markdownify }}
