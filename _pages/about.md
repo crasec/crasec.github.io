@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shi-Feng Sun"
+title: " "
 author_profile: true
 redirect_from: 
   - /about/
