@@ -11,7 +11,7 @@ redirect_from:
 
 
 ## Academic Service
-
+-------------------
 * 2022–Present: Secretary & Committee Member, CACR Technical Committee on AI and Big Data Security
 * 2024–Present: Executive Member, CCF Technical Committee on Computer Security
 * 2024–Present: Committee Member, CIE Technical Committee on Cyberspace Security
@@ -20,9 +20,8 @@ redirect_from:
 * 2021–2026: Committee Member, CCL Technical Committee on Big Data Security and Privacy Computing
 * 2023–2026: Technical Management Committee Member, SJTU–Huawei Joint Lab for Cryptography and Digital Trust
 
-
 ## Conference Service
-
+----------------------
 * ACM CCS 2025: Program Committee Member
 * ASIACRYPT 2023: Program Committee Member
 * ASIACCS 2023: Publication Chair & Program Committee Member
@@ -37,7 +36,7 @@ redirect_from:
 
 
 ## Editorial Service
-
+---------------------
 * Guest Editor, Security and Communication Networks
 * Guest Editor, Blockchain: Research and Applications
 * Editorial Board Member, IACR Communications in Cryptology
