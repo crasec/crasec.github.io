@@ -17,7 +17,7 @@ redirect_from:
 * 2024–Present: Executive Member, CCF Technical Committee on Computer Security
 * 2024–Present: Committee Member, CIE Technical Committee on Cyberspace Security
 * 2025–Present: Committee Member, Shanghai Data Standardization Technical Committee
-* 2025–Present: Executive Committee Member, Ant Group's Academic Committee on Cryptographic Computing (“隐语学术委员会”)
+* 2025–Present: Executive Committee Member, "Invispeech Academic Committee" of Ant Misuàn Technology
 * 2021–2026: Committee Member, CCL Technical Committee on Big Data Security and Privacy Computing
 * 2023–2026: Technical Management Committee Member, SJTU–Huawei Joint Lab for Cryptography and Digital Trust
 
