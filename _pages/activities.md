@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-&nbsp;
+<br>
+
 ## Academic Service
 
 * 2022–Present: Secretary & Committee Member, CACR Technical Committee on AI and Big Data Security
@@ -20,7 +21,8 @@ redirect_from:
 * 2021–2026: Committee Member, CCL Technical Committee on Big Data Security and Privacy Computing
 * 2023–2026: Technical Management Committee Member, SJTU–Huawei Joint Lab for Cryptography and Digital Trust
 
-&nbsp;
+<br>
+
 ## Conference Service
 
 * ACM CCS 2025: Program Committee Member
@@ -35,7 +37,8 @@ redirect_from:
 * CACR Big Data and Artifical Intelligence Security Youth Forum 2024: Program Committee Chair
 * CCF Blockchain Security & Innovation Competition (1st edition): Organizing Committee Chair
 
-&nbsp;
+<br>
+
 ## Editorial Service
 
 * Guest Editor, Security and Communication Networks
