@@ -9,12 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-======
 * 2024 – Second Prize, Natural Science Award, China Institute of Electronics (CIE)
 * 2024 – Second Prize, Cryptographic Innovation Award, Chinese Association for Cryptologic Research (CACR)
 * 2024 – IEEE TEMS TC Mid-Career Award
 * 2023 – ACM China Rising Star Award (Shanghai)
-* 2022 – Selected for the Shanghai Magnolia Talent Program (High-Level Talent)
+* 2022 – Selected for the Shanghai Magnolia High-Level Talent Program (High-Level Talent)
 * 2019 – CACR Excellent Doctoral Dissertation Award
 * 2018 – Progress Award in Cryptographic Science and Technology for Party and Government Applications
 * 2024 – CACR Excellent Doctoral Dissertation Advisor (Co-supervised)
